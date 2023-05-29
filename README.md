@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bleakprestiger
-- 👀 I’m interested in .NET/NodeJS
+- 👀 I’m interested in .NET/NodeJS, NLP, LLM, ChatGPT, StableDiffusion.
 - 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me bleakprestiger435@gmail.com
